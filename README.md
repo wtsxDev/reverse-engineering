@@ -27,6 +27,7 @@ A curated list of awesome reversing resources
 *Reverse Engineering Books*
 
 * [The IDA Pro Book](http://amzn.to/2jTicOg)
+* [Radare2 Book](https://www.gitbook.com/book/radare/radare2book/details)
 * [Reverse Engineering for Beginners](http://beginners.re/)
 * [The Art of Assembly Language](http://amzn.to/2jlxTNp)
 * [Practical Reverse Engineering](http://amzn.to/2iusXRW)
