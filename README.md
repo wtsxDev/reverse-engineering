@@ -117,6 +117,7 @@ A curated list of awesome reversing resources
 * [Capstone](http://www.capstone-engine.org/)
 * [objdump](http://linux.die.net/man/1/objdump)
 * [fREedom](https://github.com/cseagle/fREedom)
+* [JEB Decompiler](https://www.pnfsoftware.com/)
 
 ## Binary Analysis
 
@@ -219,6 +220,7 @@ A curated list of awesome reversing resources
 
 *Android tools*
 
+* [JEB Decompiler](https://www.pnfsoftware.com/)
 * [Android Developer Studio](http://developer.android.com/sdk/index.html)
 * [APKtool](http://ibotpeaches.github.io/Apktool/)
 * [dex2jar](https://github.com/pxb1988/dex2jar)
