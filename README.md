@@ -219,11 +219,12 @@ A curated list of awesome reversing resources
 
 *Android tools*
 
-* [Android Developer Studio](http://developer.android.com/sdk/index.html)
+* [Android Studio](http://developer.android.com/sdk/index.html)
 * [APKtool](http://ibotpeaches.github.io/Apktool/)
 * [dex2jar](https://github.com/pxb1988/dex2jar)
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
+* [JaDx](https://github.com/skylot/jadx)
 
 ## Yara
 
