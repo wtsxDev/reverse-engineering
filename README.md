@@ -155,6 +155,8 @@ A curated list of awesome reversing resources
 * [Noriben](https://github.com/Rurik/Noriben)
 * [API Monitor](http://www.rohitab.com/apimonitor)
 * [iNetSim](http://www.inetsim.org/)
+* [SmartSniff](http://www.nirsoft.net/utils/smsniff.html)
+* [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
 * [Wireshark](https://www.wireshark.org/download.html)
 * [Fakenet](http://practicalmalwareanalysis.com/fakenet/)
 * [Volatility](https://github.com/volatilityfoundation/volatility)
