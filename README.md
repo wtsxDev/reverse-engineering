@@ -232,7 +232,7 @@ A curated list of awesome reversing resources
 * [Yara docs](http://yara.readthedocs.org/en/v3.4.0/writingrules.html)
 * [Cheatsheet](https://gist.github.com/0xtyh/eeabc765e9befad9b80a)
 * [yarGen](https://github.com/Neo23x0/yarGen)
-* [Yara First Presentation](/Users/thalfpop/Downloads/first_2014_-_schuster-_andreas_-_yara_basic_and_advanced_20140619.pdf)
+* [Yara First Presentation](https://www.first.org/resources/papers/conference2014/first_2014_-_schuster-_andreas_-_yara_basic_and_advanced_20140619.pdf)
 
 Please have a look at
 * [Top Hacking Books](http://www.kalitut.com/2016/12/best-ethical-hacking-books.html)
