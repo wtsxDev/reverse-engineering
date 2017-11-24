@@ -91,6 +91,7 @@ A curated list of awesome reversing resources
 * [Hex Workshop](http://www.hexworkshop.com/)
 * [HexFiend](http://ridiculousfish.com/hexfiend/)
 * [Hiew](http://www.hiew.ru/)
+* [hecate](https://github.com/evanmiller/hecate)
 
 ## Binary Format
 
