@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/irshadpc/reverse-engineering.git"
+    "url": "git+https://github.com/wtsxDev/reverse-engineering.git"
   },
   "keywords": [
     "reverse-engineering",
@@ -18,9 +18,9 @@
   "author": "wtsxDev",
   "license": "",
   "bugs": {
-    "url": "https://github.com/irshadpc/reverse-engineering/issues"
+    "url": "https://github.com/wtsxDev/reverse-engineering/issues"
   },
-  "homepage": "https://github.com/irshadpc/reverse-engineering#readme",
+  "homepage": "https://github.com/wtsxDev/reverse-engineering#readme",
   "dependencies": {
     "remark": "^8.0.0",
     "remark-cli": "^4.0.0",
