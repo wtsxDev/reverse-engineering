@@ -1,0 +1,21 @@
+sudo: false
+
+language: node_js
+
+node_js:
+  - 8
+
+cache:
+  directories:
+    - node_modules
+
+install:
+  - yarn install
+
+script:
+  - yarn test
+
+notifications:
+  email:
+    on_success: never
+    on_failure: change

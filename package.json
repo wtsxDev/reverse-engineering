@@ -1,0 +1,48 @@
+{
+  "name": "reverse-engineering",
+  "version": "1.0.0",
+  "description": "A curated list of awesome reversing resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "remark README.md -f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtsxDev/reverse-engineering.git"
+  },
+  "keywords": [
+    "reverse-engineering",
+    "engineering",
+    "reverse"
+  ],
+  "author": "wtsxDev",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/wtsxDev/reverse-engineering/issues"
+  },
+  "homepage": "https://github.com/wtsxDev/reverse-engineering#readme",
+  "dependencies": {
+    "remark": "^8.0.0",
+    "remark-cli": "^4.0.0",
+    "remark-lint": "^6.0.0",
+    "remark-lint-alphabetize-lists": "^2.0.0",
+    "remark-lint-are-links-valid-alive": "^0.2.1",
+    "remark-lint-are-links-valid-duplicate": "^0.2.1",
+    "remark-preset-lint-recommended": "^3.0.0"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-lint-recommended",
+      [
+        "remark-lint-list-item-indent",
+        "space"
+      ],
+      "remark-lint-alphabetize-lists",
+      "remark-lint-are-links-valid-duplicate",
+      "remark-lint-are-links-valid-alive"
+    ],
+    "settings": {
+      "commonmark": true
+    }
+  }
+}
