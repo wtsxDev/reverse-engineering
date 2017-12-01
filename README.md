@@ -60,7 +60,7 @@ A curated list of awesome reversing resources
 * [REcon Training](https://recon.cx/2015/training.html)
 * [Blackhat Training](https://www.blackhat.com/us-16/training/)
 * [Offensive Security](https://www.offensive-security.com/information-security-training/)
-* [Corelan Training](https://www.corelan-training.com/)
+* [Corelan Training](https://www.corelan.be/index.php/articles/#cat_exploit-writing-tutorials)
 * [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf)
 
 ## Practice
