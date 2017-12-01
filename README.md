@@ -216,7 +216,7 @@ A curated list of awesome reversing resources
 * [The Beginner's Guide to IDA Python](https://leanpub.com/IDAPython-Book)
 * [IDA Plugin Contest](https://www.hex-rays.com/contests/)
 * [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list)
-* [pefile Python Libray](https://github.com/erocarrera/pefile)
+* [pefile Python Library](https://github.com/erocarrera/pefile)
 
 ## Android
 
