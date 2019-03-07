@@ -35,6 +35,7 @@ A curated list of awesome reversing resources
 * [Practical Malware Analysis](http://amzn.to/2jljYqE)
 * [Malware Analyst's Cookbook](http://amzn.to/2iWPJDd)
 * [Gray Hat Hacking](http://amzn.to/2jllIAi)
+* [Access Denied](https://github.com/shaykhsiddique/academic-/blob/master/CSE107/Access%20Denied.pdf)
 * [The Art of Memory Forensics](http://amzn.to/2jMJQs0)
 * [Hacking: The Art of Exploitation](http://amzn.to/2jnkV19)
 * [Fuzzing for Software Security](http://amzn.to/2jMKCWc)
