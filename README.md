@@ -112,6 +112,7 @@ A curated list of awesome reversing resources
 *Disassemblers*
 
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
+* [GHIDRA](https://ghidra-sre.org/)
 * [Binary Ninja](https://binary.ninja/)
 * [Radare](http://www.radare.org/r/)
 * [Hopper](http://hopperapp.com/)
