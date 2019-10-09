@@ -83,6 +83,8 @@ A curated list of awesome reversing resources
 * [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
 * [malwr.com](https://malwr.com/)
 * [vxvault](http://vxvault.net/)
+* [Reversing.kr](http://reversing.kr/)
+* [Reverse Engineering challenges](https://challenges.re/)
 
 ## Hex Editors
 
