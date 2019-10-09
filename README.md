@@ -51,6 +51,7 @@ A curated list of awesome reversing resources
 *Reverse Engineering Courses*
 
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [xorpd's ReversingHero](https://www.reversinghero.com)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
 * [Dr. Fu's Malware Analysis](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
 * [Binary Auditing Course](http://www.binary-auditing.com/)
@@ -75,7 +76,7 @@ A curated list of awesome reversing resources
 * [Flare-on Challenges](http://flare-on.com/)
 * [Github CTF Archives](http://github.com/ctfs/)
 * [Reverse Engineering Challenges](http://challenges.re/)
-* [xorpd Advanced Assembly Exercises](http://www.xorpd.net/pages/xchg_rax/snip_00.html)
+* [xorpd Advanced Assembly Exercises](https://www.xorpd.net/pages/xchg_rax/snip_00.html)
 * [Virusshare.com](http://virusshare.com/)
 * [Contagio](http://contagiodump.blogspot.com/)
 * [Malware-Traffic-Analysis](https://malware-traffic-analysis.com/)
