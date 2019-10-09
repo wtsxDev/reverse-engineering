@@ -51,6 +51,7 @@ A curated list of awesome reversing resources
 *Reverse Engineering Courses*
 
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [xorpd's ReversingHero](https://www.reversinghero.com)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
 * [Dr. Fu's Malware Analysis](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
 * [Binary Auditing Course](http://www.binary-auditing.com/)
