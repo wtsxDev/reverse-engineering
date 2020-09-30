@@ -22,7 +22,7 @@ A curated list of awesome reversing resources
 
 - - -
 
-## Books
+## Important Books
 
 *Reverse Engineering Books*
 
