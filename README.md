@@ -100,14 +100,14 @@ A curated list of awesome reversing resources
 *Binary Format Tools*
 
 * [CFF Explorer](http://www.ntcore.com/exsuite.php)
-* [Cerbero Profiler](http://cerbero.io/profiler/) // [Lite PE Insider](http://cerbero.io/peinsider/)
+* [Cerbero Profiler](http://cerbero.io/profiler/) // [Lite PE Insider](https://web.archive.org/web/20180617024312/http://cerbero.io/peinsider/)
 * [Detect It Easy](http://ntinfo.biz/)
 * [PeStudio](http://www.winitor.com/)
-* [PEiD](https://tuts4you.com/download.php?view.398)
+* [PEiD](https://www.aldeid.com/wiki/PEiD)
 * [MachoView](https://github.com/gdbinit/MachOView)
-* [nm](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/nm.1.html) - View Symbols
-* [file](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/file.1.html) - File information
-* [codesign](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/codesign.1.html) - Code signing information usage: codesign -dvvv filename
+* [nm](https://www.unix.com/man-page/osx/1/nm/) - View Symbols (Apple version is dead)
+* [file](https://www.unix.com/man-page/osx/1/file/) - File information
+* [codesign](https://developer.apple.com/support/code-signing/) - Code signing information usage: codesign -dvvv filename
 
 ## Disassemblers
 
@@ -127,7 +127,7 @@ A curated list of awesome reversing resources
 *Binary Analysis Resources*
 
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
-* [z3](https://z3.codeplex.com/)
+* [z3](https://github.com/Z3Prover/z3)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
 
@@ -137,16 +137,16 @@ A curated list of awesome reversing resources
 
 * [dnSpy](https://github.com/0xd4d/dnSpy)
 * [Bytecode Viewer](https://bytecodeviewer.com/)
-* [Bytecode Visualizer](http://www.drgarbage.com/bytecode-visualizer/)
-* [JPEXS Flash Decompiler](https://www.free-decompiler.com/flash/)
+* [Bytecode Visualizer](https://web.archive.org/web/20150214134314/http://www.drgarbage.com/bytecode-visualizer/)
+* [JPEXS Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
 
 ## Import Reconstruction
 
 *Import Reconstruction Tools*
 
-* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
+* [ImpRec](https://www.aldeid.com/wiki/ImpREC)
 * [Scylla](https://github.com/NtQuery/Scylla)
-* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+* [LordPE](https://www.aldeid.com/wiki/LordPE)
 
 ## Dynamic Analysis
 
@@ -164,7 +164,7 @@ A curated list of awesome reversing resources
 * [Wireshark](https://www.wireshark.org/download.html)
 * [Fakenet](http://practicalmalwareanalysis.com/fakenet/)
 * [Volatility](https://github.com/volatilityfoundation/volatility)
-* [Dumpit](http://www.moonsols.com/products/)
+* [Dumpit](https://comae.io/)
 * [LiME](https://github.com/504ensicsLabs/LiME)
 * [Cuckoo](https://www.cuckoosandbox.org/)
 * [Objective-See Utilities](https://objective-see.com/products.html)
@@ -177,7 +177,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
+* [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
 * [OllyDbg v2.01](http://www.ollydbg.de/version2.html)
 * [OllySnD](https://tuts4you.com/download.php?view.2061)
