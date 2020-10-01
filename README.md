@@ -27,7 +27,7 @@ A curated list of awesome reversing resources
 *Reverse Engineering Books*
 
 * [The IDA Pro Book](http://amzn.to/2jTicOg)
-* [Radare2 Book](https://www.gitbook.com/book/radare/radare2book/details)
+* [Radare2 Book](https://radare.gitbooks.io/radare2book/content/)
 * [Reverse Engineering for Beginners](http://beginners.re/)
 * [The Art of Assembly Language](http://amzn.to/2jlxTNp)
 * [Practical Reverse Engineering](http://amzn.to/2iusXRW)
@@ -50,15 +50,15 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Courses*
 
-* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Lenas Reversing for Newbies](https://forum.tuts4you.com/files/file/1307-lenas-reversing-for-newbies/)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
 * [Dr. Fu's Malware Analysis](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
-* [Binary Auditing Course](http://www.binary-auditing.com/)
+* [Binary Auditing Course](https://web.archive.org/web/20170914164331/http://binary-auditing.com:80/)
 * [TiGa's Video Tutorials](http://www.woodmann.com/TiGa/)
-* [Legend of Random](https://tuts4you.com/download.php?list.97)
+* [Legend of Random](https://forum.tuts4you.com/files/file/1308-the-legend-of-r4ndom-tutorials/)
 * [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 * [RPISEC Malware Course](https://github.com/RPISEC/Malware)
-* [SANS FOR 610 GREM](https://www.sans.org/course/reverse-engineering-malware-malware-analysis-tools-techniques/Type/asc/all)
+* [SANS FOR 610 GREM](https://www.sans.org/cyber-security-courses/reverse-engineering-malware-malware-analysis-tools-techniques/)
 * [REcon Training](https://recon.cx/2015/training.html)
 * [Blackhat Training](https://www.blackhat.com/us-16/training/)
 * [Offensive Security](https://www.offensive-security.com/information-security-training/)
@@ -69,7 +69,7 @@ A curated list of awesome reversing resources
 
 *Practice Reverse Engineering.  Be careful with malware.*
 
-* [Crackmes.de](http://www.crackmes.de/)
+* [Crackmes.de](http://www.crackmes.one/)
 * [OSX Crackmes](https://reverse.put.as/crackmes/)
 * [ESET Challenges](http://www.joineset.com/jobs-analyst.html)
 * [Flare-on Challenges](http://flare-on.com/)
