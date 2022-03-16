@@ -28,6 +28,7 @@ A curated list of awesome reversing resources
 
 * [The IDA Pro Book](http://amzn.to/2jTicOg)
 * [Radare2 Book](https://www.gitbook.com/book/radare/radare2book/details)
+* [Frida](https://frida.re/docs/home/)
 * [Reverse Engineering for Beginners](http://beginners.re/)
 * [The Art of Assembly Language](http://amzn.to/2jlxTNp)
 * [Practical Reverse Engineering](http://amzn.to/2iusXRW)
@@ -83,6 +84,7 @@ A curated list of awesome reversing resources
 * [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
 * [malwr.com](https://malwr.com/)
 * [vxvault](http://vxvault.net/)
+* [OWASP-Crackmes](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
 
 ## Hex Editors
 
@@ -121,11 +123,13 @@ A curated list of awesome reversing resources
 * [Capstone](http://www.capstone-engine.org/)
 * [objdump](http://linux.die.net/man/1/objdump)
 * [fREedom](https://github.com/cseagle/fREedom)
+* [cutter](cutter.re)
 
 ## Binary Analysis
 
 *Binary Analysis Resources*
 
+* [Frida](https://frida.re/)
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
@@ -153,6 +157,7 @@ A curated list of awesome reversing resources
 *Dynamic Analysis Tools*
 
 * [ProcessHacker](http://processhacker.sourceforge.net/)
+* [Frida](https://frida.re/)
 * [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer)
 * [Process Monitor](https://technet.microsoft.com/en-us/sysinternals/processmonitor)
 * [Autoruns](https://technet.microsoft.com/en-us/sysinternals/bb963902)
@@ -247,4 +252,5 @@ Please have a look at
 * [Top Machine learning Books](http://www.kalitut.com/2017/01/machine-learning-book.html)
 * [Top 5 books Programming Books](http://www.kalitut.com/2017/01/Top-Programming-Books.html)
 * [Top Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
+* [Best source for free programming books](https://goalkicker.com/)
 
