@@ -83,6 +83,7 @@ A curated list of awesome reversing resources
 * [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
 * [malwr.com](https://malwr.com/)
 * [vxvault](http://vxvault.net/)
+* [MalwareBazaar](https://bazaar.abuse.ch/browse/)
 
 ## Hex Editors
 
@@ -94,6 +95,7 @@ A curated list of awesome reversing resources
 * [HexFiend](http://ridiculousfish.com/hexfiend/)
 * [Hiew](http://www.hiew.ru/)
 * [hecate](https://github.com/evanmiller/hecate)
+* [ImHex](https://imhex.werwolv.net/)
 
 ## Binary Format
 
@@ -121,6 +123,7 @@ A curated list of awesome reversing resources
 * [Capstone](http://www.capstone-engine.org/)
 * [objdump](http://linux.die.net/man/1/objdump)
 * [fREedom](https://github.com/cseagle/fREedom)
+* [Cutter](https://cutter.re/)
 
 ## Binary Analysis
 
@@ -130,6 +133,7 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [Malcat](https://malcat.fr/)
 
 ## Bytecode Analysis
 
