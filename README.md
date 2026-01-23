@@ -130,6 +130,8 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [NullSec BinGaze](https://github.com/bad-antics/nullsec-bingaze) - Hardened C++20 ELF Binary Analyzer with security-focused binary analysis
+* [NullSec BinaryDiff](https://github.com/bad-antics/nullsec-binarydiff) - Swift binary comparison tool with section/function diffing and security analysis
 
 ## Bytecode Analysis
 
