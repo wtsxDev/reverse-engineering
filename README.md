@@ -130,6 +130,7 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security distribution with pre-configured reverse engineering tools
 
 ## Bytecode Analysis
 
