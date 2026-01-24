@@ -122,6 +122,7 @@ A curated list of awesome reversing resources
 * [objdump](http://linux.die.net/man/1/objdump)
 * [fREedom](https://github.com/cseagle/fREedom)
 
+* [NullSec BinaryDiff](https://github.com/bad-antics/nullsec-binarydiff) - Binary diffing tool for comparing executables and identifying patches
 ## Binary Analysis
 
 *Binary Analysis Resources*
