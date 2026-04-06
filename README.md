@@ -19,6 +19,7 @@ A curated list of awesome reversing resources
     - [Scripting](#scripting)
     - [Android](#android)
     - [Yara](#yara)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including security analysis, code review, and automated reverse engineering assistance. MIT licensed.
 
 - - -
 
