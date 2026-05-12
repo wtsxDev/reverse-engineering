@@ -190,6 +190,7 @@ A curated list of awesome reversing resources
 * [lldb](http://lldb.llvm.org/)
 * [qira](http://qira.me/)
 * [unicorn](https://github.com/unicorn-engine/unicorn)
+* [assembly-repl](https://github.com/pirate/assembly-repl) - A small native assembly, WebAssembly, LLVM IR, C, C++, and Objective-C REPL for macOS and Linux.
 
 ## Mac Decrypt
 
@@ -247,4 +248,3 @@ Please have a look at
 * [Top Machine learning Books](http://www.kalitut.com/2017/01/machine-learning-book.html)
 * [Top 5 books Programming Books](http://www.kalitut.com/2017/01/Top-Programming-Books.html)
 * [Top Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
-
