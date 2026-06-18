@@ -130,6 +130,7 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [DeNuitkanizator](https://github.com/2M12/DeNuitkanizator)
 
 ## Bytecode Analysis
 
