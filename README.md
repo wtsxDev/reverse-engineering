@@ -9,6 +9,7 @@ A curated list of awesome reversing resources
     - [Hex Editors](#hex-editors)
     - [Binary Format](#binary-format)
     - [Disassemblers](#disassemblers)
+    - [AI-Assisted Reverse Engineering](#ai-assisted-reverse-engineering)
     - [Binary Analysis](#binary-analysis)
     - [Bytecode Analysis](#bytecode-analysis)
     - [Import Reconstruction](#import-reconstruction)
@@ -121,6 +122,15 @@ A curated list of awesome reversing resources
 * [Capstone](http://www.capstone-engine.org/)
 * [objdump](http://linux.die.net/man/1/objdump)
 * [fREedom](https://github.com/cseagle/fREedom)
+
+## AI-Assisted Reverse Engineering
+
+*Model Context Protocol servers and agents that let LLMs drive the disassemblers above*
+
+* [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP server for Ghidra: decompile, rename, xrefs.
+* [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - MCP server for IDA Pro.
+* [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) - Official MCP server for Radare2.
+* [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp) - MCP server and bridge for Binary Ninja.
 
 ## Binary Analysis
 
