@@ -27,6 +27,7 @@ A curated list of awesome reversing resources
 *Reverse Engineering Books*
 
 * [The IDA Pro Book](http://amzn.to/2jTicOg)
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 * [Radare2 Book](https://www.gitbook.com/book/radare/radare2book/details)
 * [Reverse Engineering for Beginners](http://beginners.re/)
 * [The Art of Assembly Language](http://amzn.to/2jlxTNp)
