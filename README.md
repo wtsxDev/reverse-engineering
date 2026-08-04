@@ -121,6 +121,7 @@ A curated list of awesome reversing resources
 * [Capstone](http://www.capstone-engine.org/)
 * [objdump](http://linux.die.net/man/1/objdump)
 * [fREedom](https://github.com/cseagle/fREedom)
+* [REA](https://github.com/morluto/rea) - Local CLI and MCP tools for agent-driven reverse engineering with Hopper and Ghidra.
 
 ## Binary Analysis
 
@@ -247,4 +248,3 @@ Please have a look at
 * [Top Machine learning Books](http://www.kalitut.com/2017/01/machine-learning-book.html)
 * [Top 5 books Programming Books](http://www.kalitut.com/2017/01/Top-Programming-Books.html)
 * [Top Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
-
