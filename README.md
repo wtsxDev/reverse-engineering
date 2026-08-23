@@ -130,6 +130,7 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [fnprint](https://github.com/1rhino2/fnprint) - Behavioral function fingerprinting and n-day patch-diffing by microexecution, not bytes or CFG (x86-64 ELF).
 
 ## Bytecode Analysis
 
