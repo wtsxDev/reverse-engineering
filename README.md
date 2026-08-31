@@ -130,6 +130,7 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [re-toolkit](https://github.com/2akouwu/codex-cli-portable-setup-kit) - Pure-Python reverse engineering toolkit with PE32/PE32+ parser, x86/x64 disassembler, micro-emulator, and Protobuf dissector
 
 ## Bytecode Analysis
 
