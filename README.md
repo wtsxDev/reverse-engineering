@@ -162,6 +162,7 @@ A curated list of awesome reversing resources
 * [SmartSniff](http://www.nirsoft.net/utils/smsniff.html)
 * [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
 * [Wireshark](https://www.wireshark.org/download.html)
+* [usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Infer USB device protocols from labelled usbmon/USBPcap captures (values, lookup tables, counters, CRCs) and generate Python drivers
 * [Fakenet](http://practicalmalwareanalysis.com/fakenet/)
 * [Volatility](https://github.com/volatilityfoundation/volatility)
 * [Dumpit](http://www.moonsols.com/products/)
