@@ -130,6 +130,7 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [Reverse Engineering MCP](https://github.com/dockfixlabs/reverse-engineering-mcp) — 18 evidence-backed reverse-engineering tools over MCP: Ghidra decompilation, smart contract / EVM analysis, APK audit, WebAssembly analysis, Electron security audit, pcap network analysis, SQLite forensics.
 
 ## Bytecode Analysis
 
