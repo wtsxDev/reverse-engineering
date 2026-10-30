@@ -130,6 +130,7 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [OshoosiClaw](https://github.com/oyesanyf/OshoosiClaw) - Autonomous Reverse Engineer Anything (REA) engine in Rust for inspecting PE/ELF/Mach-O binaries, Rust `cargo-auditable` & Go `BuildInfo` symbols, WASM, EVM bytecode, .NET CIL, Android APKs, and Electron ASAR archives with automated YARA-X signature generation.
 
 ## Bytecode Analysis
 
